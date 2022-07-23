@@ -67,6 +67,14 @@
 2006-07-21|85.99|90.13|150.000 Betriebe werden von Buchführungspflichten freigestellt.|force
 2006-07-21|90.78|96.88|Betriebe, die weniger als 10 Beschäftigte haben, brauchen in Zukunft keinen Datenschutzbeauftragten mehr zu benennen.|force
 2006-07-21|110.68|116.58|So haben wir eine ganze Reihe von Maßnahmen verabschiedet, die Mittelständlern in Zukunft das Leben leichter machen.|force
+2006-07-28|36.95|40.53|Leider verbringen viele von Ihnen manche Zeiten auch im Stau.|force
+2006-07-28|41.57|43.85|Wir wollen als Bundesregierung dies ändern.|force
+2006-07-28|44.59|49.95|Deshalb haben wir gesagt, wir knüpfen an, an die guten Erfahrungen, die wir beim Aufbau Ost gemacht haben.|force
+2006-07-28|50.13|59.19|Hier gibt es noch bis Ende diesen Jahres ein Gesetz zur Planungsbeschleunigung von Verkehrswegen, so zum Beispiel Autobahnen und Schienenwegen.|force
+2006-07-28|91.38|99.99|86 einzeln benannte Großprojekte haben wir herausgegriffen: Ortsumgehungen, Autobahnteilstücke, Nadelöhre bei Bahnverbindungen.|force
+2006-07-28|119.77|123.66|Und gleichzeitig steigt die Lebensqualität für die Menschen in Deutschland.|force
+2006-07-28|124.28|131.42|Wenn Sie andere Länder zum Beispiel in der Europäischen Union besuchen, dann werden Sie sehen, dass Bauvorhaben dort sehr viel schneller umgesetzt werden.|force
+2006-07-28|131.6|141.27|Warum soll das, was bei unseren Nachbarn geht, warum soll das, mit dem wir gute Erfahrungen in den neuen Bundesländern gemacht haben, nicht auch in ganz Deutschland Wirklichkeit werden.|force
 2006-09-02|48.18|56.01|Unsere Chancen liegen dort, wo wir neue Entdeckungen machen, neue Entwicklungen haben, die andere noch nicht auf den Markt gebracht haben.|force
 2006-09-02|56.18|60.16|Deshalb hat die Bundesregierung eine Hightech-Strategie entwickelt.|force
 2006-09-02|60.25|61.86|Denn wir wollen das ändern.|force
@@ -138,6 +146,17 @@
 2006-10-13|99.54|102.12|Warum ist uns das so wichtig in Zeiten knapper Kassen?|force
 2006-10-13|102.26|105.94|Viele werden fragen: Wollen wir das Geld nicht für etwas anderes ausgeben?|force
 2006-10-13|131.49|135.05|Und auch hier sage ich: Ein Besuch in einem Museum lohnt immer.|force
+2006-10-20|15.38|19.34|Wir sind alle noch betroffen von der Nachricht über den Tod des kleinen Kevin.|force
+2006-10-20|20.04|22.43|Ein Kind ist an seinen Misshandlungen gestorben.|force
+2006-10-20|38.17|43.84|Wir sind ein reiches Land, wir sind ein gebildetes Land, und deshalb ist dies eine der wichtigsten Aufgaben.|force
+2006-10-20|43.98|52.36|Der frühere Bundespräsident Johannes Rau hat einmal gesagt: „Wir müssen einander achten, und wir müssen aufeinander achten.|force
+2006-10-20|53.12|58.35|“ Ich glaube, er hat damit genau das beschrieben, worum es geht: Jeder von uns hat eine Verantwortung.|force
+2006-10-20|58.48|68.24|Jeder einzelne Bürger, die Verantwortlichen in den Gemeinden und Städten, die Verantwortlichen in den Landesregierungen und natürlich auch die Bundesregierung.|force
+2006-10-20|80.11|85.66|Dazu hat unsere Bundesfamilienministerin Ursula von der Leyen einen ganz konkreten Vorschlag gemacht.|force
+2006-10-20|86.29|92.03|Sie will ein Netzwerk aufbauen, in dem sich die einzelnen Akteure besser miteinander abstimmen können.|force
+2006-10-20|92.2|102.06|Zum Beispiel können Ärzte dann direkt sich an das Jugendamt wenden und auch jeder einzelne Bürger weiß, wo eine Anlaufstelle ist, wenn ihm etwas auffällt.|force
+2006-10-20|112.07|118.53|Sondern: Wenn wir Verdacht haben, dass Gewalt geschieht, dass Misshandlungen geschehen, dann müssen wir eingreifen.|force
+2006-10-20|118.69|123.7|Dies ist unsere Pflicht, und dafür müssen wir auch die notwendigen Voraussetzungen schaffen.|force
 2006-10-27|16.62|21.04|Am Montag kommt der polnische Ministerpräsident Jaroslaw Kaczynski nach Berlin.|force
 2006-10-27|39.98|51.11|Polen ist Mitglied der Europäischen Union, Polen ist Mitglied der NATO, und damit ist es, wie ein polnischer Politiker einmal sagte: „wieder zu Hause angekommen“.|force
 2006-10-27|51.29|52.97|Ich sehe das genauso.|force
@@ -1156,6 +1175,18 @@
 2008-11-01|167.35|171.83|Das heißt, wir müssen alles unternehmen, um die Doha-Runde möglichst schnell abzuschließen.|force
 2008-11-01|176.99|191.57|Deshalb könnte ich mir vorstellen, dass die Weltbank ein Investitionsprogramm gerade für Schwellenländer auflegt, mit dem sichergestellt wird, dass insbesondere Infrastrukturinvestitionen auch in Zeiten wirtschaftlicher Schwäche fortgesetzt werden können.|force
 2008-11-01|192.23|198.84|Das ist dann auch gut für Arbeitsplätze in Deutschland, denn viele unserer Industriebranchen sind stark exportabhängig.|force
+2008-11-08|14.61|18.44|Der 9. November ist für uns Deutsche ein Datum historischen Ausmaßes.|force
+2008-11-08|19.82|24.02|Am 9. November 1938 fand die Reichspogromnacht statt.|force
+2008-11-08|53.99|57.98|Viele haben am 9. November 1938 in Deutschland weggesehen.|force
+2008-11-08|66.25|74.52|Aus dieser Erfahrung heraus gedenken wir der Opfer des Holocaust mit dem Stelenfeld in der Mitte Berlins.|force
+2008-11-08|102.28|109.63|Sondern wir müssen immer wieder darüber nachdenken, wie es zu dem Holocaust, diesem singulären Ereignis, kommen konnte.|force
+2008-11-08|110.34|121.83|Und wir müssen die Erinnerung daran nicht nur wegen der Verpflichtung gegenüber den Opfern wachhalten, sondern vor allen Dingen auch im Blick darauf, dass sich so etwas nie wiederholen kann.|force
+2008-11-08|122.04|134.88|Deshalb geht es darum, auch heute vor allen Dingen entschieden gegen Rassismus und insbesondere Antisemitismus vorzugehen - und zwar gemeinsam, in der gesamten Gesellschaft.|force
+2008-11-08|136.72|141.81|Der 9. November 1989 war ein glücklicher Tag in der deutschen Geschichte.|force
+2008-11-08|153.95|158.68|Aber auch hier spüren wir: Die Erinnerung an die frühere DDR muss wachgehalten werden.|force
+2008-11-08|158.86|167.48|Deshalb habe ich in dieser Woche die „Stiftung Aufarbeitung“, die sich mit der Aufarbeitung der SED-Diktatur befasst, besucht.|force
+2008-11-08|173.18|182.8|Aber wir wollen dafür Sorge tragen, dass auch hier die Kenntnis der Geschichte uns davor bewahrt, radikale Tendenzen wiederaufleben zu lassen.|force
+2008-11-08|201.96|206.38|Das ist es, worum es der Bundesregierung mit ihrer Politik geht.|force
 2008-11-15|24.75|27.5|Worum geht es bei der Nachhaltigkeitsstrategie?|force
 2008-11-15|38.41|47.05|Dieses Prinzip muss Oberprinzip aller politischen Handlungen sein - sowohl im sozialen Bereich, im Umweltbereich, aber auch beim Wirtschaften.|force
 2008-11-15|57.66|62.05|In diesem Zusammenhang sind natürlich Umwelttechnologien von besonderem Interesse.|force
@@ -1230,6 +1261,84 @@
 2008-12-13|138.76|146.06|Wir wissen, dass wir mit unseren Auslandseinsätzen einen Beitrag für eine sicherere Welt gewährleisten.|force
 2008-12-13|163.6|167.62|Deshalb ist der Begriff der „vernetzten Sicherheit“ unser Maßstab.|force
 2008-12-13|168.23|182.07|Und deshalb danke ich auch all denen, die als Entwicklungshelfer, Wiederaufbauhelfer oder Diplomaten ihren Beitrag dazu leisten, dass nicht nur unsere Sicherheit in Deutschland gewährleistet wird, sondern auch insgesamt die Welt sicherer wird.|force
+2008-12-20|14.39|17.48|Dies ist mein letzter Videopodcast im Jahre 2008.|force
+2008-12-20|20.64|28.82|Weihnachten, das ist ein Fest der Besinnung, der Fröh­ lichkeit im Kreis der Familie und des Treffens mit Freunden.|force
+2008-12-20|28.97|32.97|Ich wünsche Ihnen allen deshalb gesunde und gute Festtage.|force
+2008-12-20|33.19|40.73|Ich weiß, dass es auch einige geben wird, die wegen Krankheit oder Trauer nicht so fröhlich beisammen sein können wie andere.|force
+2008-12-20|40.78|50.89|Ihnen wünsche ich, dass ihnen die Bot­ schaft von Jesus Christus und seiner Geburt Kraft und Trost gibt - und auch die Möglichkeit, wieder Hoffnung zu schöpfen.|force
+2008-12-20|56.29|62.03|Täglich erreichen uns Nachrichten über schwierige wirtschaftliche Situationen von Betrieben.|force
+2008-12-20|88.95|98.36|Dies allerdings muss sorgfältig vorbereitet werden, denn wir wollen immer genau da ansetzen, wo Arbeitsplätze erhalten oder geschaffen werden können.|force
+2008-12-20|99.1|109.36|Unser Ziel ist es, dass Deutschland nach der Krise besser aufgestellt ist, moderner - und für das 21. Jahrhundert und die Globalisierung gut gerüstet.|force
+2008-12-20|110.13|114.19|Deshalb sind zum Beispiel Investitionen in die Zukunft von äußerster Wichtigkeit.|force
+2008-12-20|119.87|133.54|Auf der anderen Seite in der Tatsache, dass wir Breitbandanschlüsse für alle Menschen in unserem Lande zur Verfügung stellen, um mit den neuesten Technologien des 21. Jahrhunderts - auch in ländlichen Räumen - versorgt zu sein.|force
+2008-12-20|134.37|140.1|Es wird also viel zu tun sein, und wir werden die Kraft aller und das Mitmachen aller brauchen.|force
+2008-12-20|140.23|143.95|Ich wünsche Ihnen aber jetzt erst einmal frohe Feiertage.|force
+2008-12-30|8.72|10.54|Was war Ihnen in diesem Jahr wichtig?|force
+2008-12-30|11.06|12.27|Ein lang gehegter Wunsch?|force
+2008-12-30|12.79|14.64|Die Sorge um einen lieben Menschen?|force
+2008-12-30|15.39|17.27|Die Geburt eines eigenen Kindes?|force
+2008-12-30|17.26|19.27|Die berufliche Zukunft?|force
+2008-12-30|22.66|29.59|Oder sich einfach nur kurz bewusst zu machen, welch großes Glück es für uns ist, in Frieden und Sicherheit zu leben?|force
+2008-12-30|29.69|34.57|Viele andere, zum Beispiel die Menschen im Nahen Osten, gäben viel dafür.|force
+2008-12-30|34.75|38.63|Wir sehen das mit neuer Dramatik wieder in diesen Tagen.|force
+2008-12-30|39.54|43.25|Ursache und Wirkung der gegenwärtigen Kämpfe dürfen nicht vergessen werden.|force
+2008-12-30|67.8|75.09|Gemessen an den Sorgen der Opfer von Kriegen und Gewalt muten unsere Probleme in Deutschland vergleichsweise gering an.|force
+2008-12-30|76.03|80.91|Dennoch ist das kein Grund, in unseren Anstrengungen für unser Land nachzulassen.|force
+2008-12-30|81.08|86.83|Vieles von dem, was 2008 wichtig war, bleibt es auch 2009.|force
+2008-12-30|86.98|90.49|Das ist im eigenen Leben genauso wie in der Politik.|force
+2008-12-30|91.51|97.63|Deshalb steht für mich auch im kommenden Jahr an erster Stelle, Arbeitsplätze zu erhalten und zu schaffen.|force
+2008-12-30|98.42|102.54|Gerade hier ist Deutschland in den vergangenen drei Jahren gut vorangekommen.|force
+2008-12-30|103.19|105.9|Es gibt heute mehr Erwerbstätige als je zuvor.|force
+2008-12-30|114.4|120.16|Unsere Unternehmen sind wettbewerbsfähiger und unsere Schulen und Universitäten erfolgreicher.|force
+2008-12-30|121.06|126.35|Deutschland ist Integrationsland und wird für immer mehr Migrantinnen und Migranten Heimat.|force
+2008-12-30|127.53|130.05|Das alles sind gute Gründe für Zuversicht.|force
+2008-12-30|135.04|139.84|Vertrauen auf das, was wir können, ist gerade jetzt wichtig.|force
+2008-12-30|140.82|143.7|Denn die weltweite Krise berührt auch Deutschland.|force
+2008-12-30|143.79|158.68|Finanzielle Exzesse ohne soziales Verantwortungsbewusstsein, das Verlieren von Maß und Mitte mancher Banker und Manager - wahrlich nicht aller, aber mancher - das hat die Welt in diese Krise geführt.|force
+2008-12-30|162.82|168.34|Nur wenn wir diese Ursachen benennen, können wir die Welt aus dieser Krise führen.|force
+2008-12-30|168.49|175.23|Dazu brauchen wir klare Grundsätze: Der Staat ist der Hüter der wirtschaftlichen und sozialen Ordnung.|force
+2008-12-30|180.54|183.11|Das sind die Prinzipien der sozialen Marktwirtschaft.|force
+2008-12-30|183.8|186.2|Sie gelten bei uns, aber das reicht nicht.|force
+2008-12-30|190.55|193.65|Erst das wird die Welt aus dieser Krise führen.|force
+2008-12-30|194.34|196.66|Die Welt ist dabei, diese Lektion zu lernen.|force
+2008-12-30|197.55|207.06|Und das ist die Chance, die in dieser Krise steckt, die Chance für internationale Regeln, die sich an den Prinzipien der sozialen Marktwirtschaft orientieren.|force
+2008-12-30|208.08|212.23|Ich werde nicht locker lassen, bis wir solche Regeln erreicht haben.|force
+2008-12-30|213.39|222.48|Liebe Mitbürgerinnen und Mitbürger, diese Krise kann nur weltweit gelöst werden, aber natürlich leisten wir einen wichtigen Beitrag dazu.|force
+2008-12-30|227.38|231.22|Aber ich entscheide nicht danach, wer gerade am lautesten ruft.|force
+2008-12-30|232.19|240.86|Denn es ist Ihr Geld, liebe Mitbürgerinnen und Mitbürger, das Geld der Steuerzahler, für das wir in der Politik Verantwortung tragen.|force
+2008-12-30|242.13|256.86|Deshalb ist unser Maßstab für alle weiteren Entscheidungen so einfach wie eindeutig: Wir machen das, was Arbeitsplätze sichert und schafft, egal ob in kleinen oder in mittleren oder in großen Unternehmen.|force
+2008-12-30|257.67|262.54|Arbeit für die Menschen - das ist der Maßstab unseres Handelns.|force
+2008-12-30|263.77|269.27|Deshalb müssen wir zuallererst sicherstellen, dass unsere Betriebe Zugang zu den notwendigen Krediten haben.|force
+2008-12-30|270.07|274.56|Der Staat muss hier einspringen, wenn die Banken ihre Aufgaben nicht erfüllen.|force
+2008-12-30|274.73|279.59|Darüber hinaus werden wir zusätzliche Mittel in Zukunftsinvestitionen stecken.|force
+2008-12-30|294.48|298.16|Das ist Politik für die nächste Generation.|force
+2008-12-30|298.95|306.85|Und wir werden bei allem, was wir tun, nicht alte Fehler wiederholen und Wirtschaft und Umwelt gegeneinander ausspielen.|force
+2008-12-30|307.02|315.04|Wirtschaft und Klimaschutz, Klimaschutz und Wirtschaft - das geht zusammen, wenn man es nur will.|force
+2008-12-30|315.62|316.93|Und wir wollen es.|force
+2008-12-30|323.64|330.14|Politische Unterstützung der Kurzarbeit und Qualifikation der Mitarbeiter werden verstärkt.|force
+2008-12-30|331.02|339.57|Und wo immer es im Blick auf die nächste Generation verantwortbar ist, werden wir alle, die Steuern und Abgaben zahlen, entlasten.|force
+2008-12-30|339.78|343.25|Das alles stärkt unser Land.|force
+2008-12-30|354.54|360.67|Meine Devise ist: Wir wollen die Auswirkungen der weltweiten Finanzkrise nicht einfach überstehen.|force
+2008-12-30|366.5|369.55|Das geht, das können wir gemeinsam schaffen!|force
+2008-12-30|370.83|380.89|Ich habe die wichtigsten Gruppen aus der Wissenschaft, der Wirtschaft, den Banken, den Gewerkschaften, den Bundesländern und den Kommunen zusammengerufen und mit ihnen beraten.|force
+2008-12-30|381.37|386.06|Ich habe dabei einen neuen Geist gespürt: Verantwortung für das Ganze.|force
+2008-12-30|386.73|389.0|Verantwortung für unser Land.|force
+2008-12-30|390.09|392.14|In der Krise zeigt sich der Gemeinsinn.|force
+2008-12-30|392.3|395.77|Dieser Gemeinsinn kann uns jetzt überall voranbringen.|force
+2008-12-30|395.92|400.37|Mitte Januar werden wir entscheiden und dann schnell umsetzen.|force
+2008-12-30|401.23|408.43|Ich werde mich im nächsten Jahr regelmäßig mit allen Verantwortlichen treffen und überprüfen, wie wirksam die beschlossenen Maßnahmen sind.|force
+2008-12-30|409.29|416.83|Dazu gehört für mich auch, die führenden Vertreter der Oppositionsparteien im Deutschen Bundestag persönlich zu unterrichten.|force
+2008-12-30|434.0|437.16|Das jedenfalls spüre ich in vielen Gesprächen.|force
+2008-12-30|438.9|447.87|Liebe Mitbürgerinnen und Mitbürger, wir Deutschen haben schon ganz andere Herausforderungen gemeistert, im kommenden Jahr werden wir uns daran erinnern.|force
+2008-12-30|448.86|453.86|Wir haben das zerstörte Deutschland nach dem Krieg aufgebaut und fest in Europa verankert.|force
+2008-12-30|454.63|464.32|2009 feiern wir den 60. Geburtstag der Bundesrepublik und mit dem Grundgesetz die freiheitlichste und gerechteste Ordnung, die Deutschland je hatte.|force
+2008-12-30|467.54|472.05|2009 feiern wir den 20. Jahrestag des Falls der Berliner Mauer.|force
+2008-12-30|487.93|490.97|Und auch das gelang in einer gemeinschaftlichen Anstrengung.|force
+2008-12-30|491.87|498.47|Ich kenne viele Menschen, die sich etwas zutrauen und anpacken, in Ost wie West.|force
+2008-12-30|504.57|519.34|Ich bin überzeugt davon: Wenn sich auch im kommenden Jahr jeder an seiner Stelle für etwas einsetzt, das für ihn in diesem Land besonders liebens- oder lebenswert ist, dann wird es uns allen noch besser gehen.|force
+2008-12-30|520.49|528.62|Liebe Mitbürgerinnen und Mitbürger, ich wünsche Ihnen, dass Sie alles in allem mit Dankbarkeit auf das vergangene Jahr zurücksehen können.|force
+2008-12-30|529.41|540.99|All denen, die in diesem Jahr mit Sorgen und mit Trauer leben mussten, wünsche ich Trost und Kraft, um den Beginn des neuen Jahres mit neuer Zuversicht begehen zu können.|force
+2008-12-30|542.36|550.26|Ich wünsche Ihnen allen ein erfülltes, ein glückliches und ein gesegnetes Jahr 2009.|force
 2009-01-10|16.64|26.3|Das Jahr 2009 ist in verschiedener Weise ein ganz besonderes Jahr: Wir müssen natürlich vor allen Dingen die Herausforderung der internationalen Wirtschaftskrise bewältigen.|force
 2009-01-10|79.18|81.54|Wir werden daran mit Freude denken.|force
 2009-01-10|82.25|88.8|Aber wir werden uns auch daran erinnern, dass es schwierig war, die Folgen der SED-Diktatur aufzulösen.|force
@@ -1249,6 +1358,31 @@
 2009-01-10|233.12|247.01|Die SED-Diktatur muss deshalb in Erinnerung bleiben, und deshalb ist es richtig, dass die Bundesregierung ein Gedenkstättenkonzept verabschiedet hat und das „Gebäude Nr. 1“ des ehemaligen Ministeriums für Staatssicherheit zu diesem Gedenkstättenkonzept gehört.|force
 2009-01-10|247.09|269.21|So wird es möglich sein, dass auch junge Menschen, die glücklicherweise die deutsche Teilung nicht mehr erleben mussten, die nach dem Fall der Mauer geboren wurden, sich erinnern können an ein Stück deutscher Geschichte, an ein Stück deutscher kommunistischer Diktatur und genauso an ein Stück friedlicher Revolution, die zu den schönsten Ereignissen der deutschen Geschichte gehört.|force
 2009-01-10|269.29|282.28|Dass Menschen den Mut aufgebracht haben, für Freiheit und Einheit einzutreten und damit auch auf friedlichem Wege Erfolg hatten - das soll uns ermutigen, auch die Herausforderungen der Zukunft zu bewerkstelligen|force
+2009-01-17|16.54|25.33|Angesichts der weltweiten Finanz- und Wirtschaftskrise ist auch die wirtschaftliche Lage in der Bundesrepublik Deutschland deutlich schwieriger geworden.|force
+2009-01-17|29.55|41.8|Deshalb hat die Bundesregierung in dieser Woche ein Maßnahmenpaket verabschiedet, das einen Beitrag dazu leistet, dass wir diese Krise nicht nur überwinden, sondern sogar gestärkt aus ihr hervorgehen.|force
+2009-01-17|42.91|51.3|Das Maßnahmenpaket ist ein Mix aus verschiedenen Instrumenten, die erst in ihrer Gesamtschau die Wirkungen entfalten können, die wir wollen.|force
+2009-01-17|51.9|60.07|Unser Maßstab ist dabei, dass wir vor allen Dingen eine Brücke für den Arbeitsmarkt bauen wollen und Arbeitsplätze in Deutschland sichern wollen.|force
+2009-01-17|60.73|71.96|Denn wir wissen: Die Fähigkeiten und Fertigkeiten der Menschen in Deutschland - das ist unsere Stärke, nur deshalb sind wir Exportweltmeister, nur deshalb sind wir wirtschaftlich stark.|force
+2009-01-17|72.76|87.43|Die verschiedenen Instrumente, die wir anwenden, bestehen einmal aus einem Paket für Investitionen in die Zukunft, zum Zweiten aus Maßnahmen, um eine Brücke für den Arbeitsmarkt entstehen zu lassen, und zum Dritten aus Entlastungen für Bürgerinnen und Bürger.|force
+2009-01-17|88.12|95.1|Was die Investitionen anbelangt, so werden hiervon vor allen Dingen die Kommunen profitieren, und hierbei wieder der Bildungsbereich.|force
+2009-01-17|107.7|111.05|So soll unkompliziert - mit den Ländern gemeinsam - das Geld an die Kommunen gegeben werden.|force
+2009-01-17|111.47|118.62|Es zeigt sich, dass in dieser Krisensituation Bund und Länder sehr eng zusammenarbeiten und schnell handlungsfähig sind.|force
+2009-01-17|138.2|143.05|Deshalb werden wir mit einem speziellen Programm hier Forschungsförderung ermöglichen.|force
+2009-01-17|144.01|151.42|Außerdem werden wir dafür Sorge tragen, dass die Forschung im Besonderen im Bereich der Automobilindustrie gestärkt wird.|force
+2009-01-17|151.62|157.25|Wir wissen, dass das Auto des 21. Jahrhunderts anders aussieht als das Auto des 20. Jahrhunderts.|force
+2009-01-17|157.42|163.8|Deshalb wollen wir durch eine spezielle Förderung die Forschung für neue Antriebstechnologien unterstützen.|force
+2009-01-17|164.32|174.0|Hierbei geht es vor allen Dingen um Hybridmotoren, um Elektroautos, und daran werden insbesondere auch die Zulieferer der Automobilindustrie teilhaben können.|force
+2009-01-17|174.77|180.85|So setzen wir mit unseren Investitionen auf die Zukunftsfähigkeit unserer Branchen in Deutschland.|force
+2009-01-17|193.81|198.53|Wir wollen es Betrieben auch ermöglichen, dass Kurzarbeit genutzt wird.|force
+2009-01-17|198.63|202.95|Deshalb haben wir die Dauer der Kurzarbeit auf 18 Monate erweitert.|force
+2009-01-17|203.47|205.54|Wir wissen aber, dass das alleine noch nicht reicht.|force
+2009-01-17|205.94|214.8|Deshalb haben wir uns dazu entschlossen, die Sozialversicherungsbeiträge für Betriebe, die Kurzarbeit in Anspruch nehmen, in Zukunft zur Hälfte zu erstatten.|force
+2009-01-17|215.36|219.81|Dafür wird die Bundesagentur für Arbeit ihre Rücklagen bereitstellen.|force
+2009-01-17|220.65|225.56|Außerdem wollen wir das Angebot machen, dass Mitarbeiterinnen und Mitarbeiter qualifiziert werden können.|force
+2009-01-17|231.78|237.62|Das ist ein Beitrag dazu, dass Deutschland stärker aus der Krise herauskommt, als es hineingeht.|force
+2009-01-17|238.58|256.04|Diese Beispiele zeigen: Wir haben in unserem Maßnahmenpaket vor allen Dingen auch daran gedacht, Forschung, Entwicklung, Bildung in die Zukunft zu unterstützen, und ich hoffe, dass viele Menschen von diesen Angeboten Gebrauch machen können und viele ihren Arbeitsplatz behalten können.|force
+2009-01-17|256.68|268.7|Ich rufe alle Unternehmer in Deutschland auf, sich unseres Maßnahmenpakets zu bedienen, es in Anspruch zu nehmen und damit ihren Beitrag zu leisten, damit wir gestärkt durch die Krise kommen.|force
+2009-01-17|269.2|277.51|Denn wir wissen, Politik alleine wird diese Krise nicht bewältigen können, sondern wir brauchen eine gemeinsame nationale Kraftanstrengung.|force
 2009-01-24|16.79|20.52|Es gibt Rechte, die uns heute allen ganz selbstverständlich erscheinen.|force
 2009-01-24|20.7|22.52|Dazu gehört auch das Wahlrecht.|force
 2009-01-24|22.88|30.63|Keiner würde es heute in der Bundesrepublik Deutschland verstehen, wenn zu Bundestags-, Landtags- oder Kommunalwahlen plötzlich nur die Männer gehen würden.|force
@@ -1547,6 +1681,24 @@
 2009-06-27|193.37|205.65|Und was dazu kommt: Den Rentnerinnen und Rentnern wird auch faktisch mehr Geld zur Verfügung stehen, weil die Inflationsrate im Augenblick - ganz im Gegensatz zum letzten Jahr - sehr, sehr gering ist.|force
 2009-06-27|207.01|215.24|Wir versuchen mit unseren Maßnahmen, einen Beitrag dazu zu leisten, dass Menschen entlastet werden - insbesondere auch Familien.|force
 2009-06-27|241.07|256.3|Wen noch mehr Details über unser Konjunkturpaket interessieren, dem empfehle ich einen Klick auf die Seite der Bundesregierung unter dem Namen www.konjunkturpaket.de.|force
+2009-07-04|4.23|21.3|Am 9. November können wir den 20. Jahrestag des Falls der Berliner Mauer feiern.|force
+2009-07-04|21.37|29.77|Der Fall des „Eisernen Vorhangs“ war der erste Schritt zu einer Wiedervereinigung der beiden deutschen Staaten in Frieden und Freiheit.|force
+2009-07-04|30.22|42.89|In diesen Tagen erinnere ich mich oft an die lange Vorgeschichte des 9. November 1989 - sowohl in der ehemaligen DDR als auch in den Staaten des ehemaligen Warschauer Paktes.|force
+2009-07-04|43.7|59.34|Dazu gehört der 4. Juni 1989, der Sieg von Solidarność in Polen, genauso wie der 27. Juni 1989, als an der ungarisch-österreichischen Grenze der Stacheldraht in einem mutigen Akt durchschnitten wurde.|force
+2009-07-04|59.52|64.29|Das SED-Regime wollte lange von den Veränderungen nichts wissen.|force
+2009-07-04|65.24|74.96|Schon gab es in der ehemaligen Sowjetunion mit Michail Gorbatschow einen Vertreter von Perestroika, aber die DDR-Machthaber blieben stur.|force
+2009-07-04|110.84|114.83|Trotz allen Drucks ließ sich die Opposition nicht mehr mundtot machen.|force
+2009-07-04|138.55|145.05|Schon in den 60er und 70er Jahren boten viele Pfarrer Unterschlupf für diejenigen, die andere Gedanken hegten.|force
+2009-07-04|162.92|168.24|Dies war für viele junge Menschen eine große Beruhigung und eine große Unterstützung.|force
+2009-07-04|177.0|184.88|Unter dem Motto „Schwerter zu Pflugscharen“ haben sich viele versammelt und ihrer Überzeugung nach einer friedlicheren Welt Ausdruck verliehen.|force
+2009-07-04|212.93|216.48|Dies war die Rolle der Kirchen schon weit vor der Friedlichen Revolution.|force
+2009-07-04|239.21|242.87|Genau das ist gelungen, und die Kirchen hatten daran einen großen Anteil.|force
+2009-07-04|261.95|267.04|Wir sollten uns erinnern, dass die Kirchen natürlich eine Gradwanderung gehen mussten.|force
+2009-07-04|274.52|281.81|Auf der anderen Seite waren sie immer wieder auch Pressionen, Nachfragen und Unterdrückungsmechanismen der staatlichen Gewalt ausgesetzt.|force
+2009-07-04|282.41|288.91|Sie waren oft das Opfer von Bespitzelung, oder man hat versucht, Pfarrer und kirchliche Mitarbeiter unter Druck zu setzen.|force
+2009-07-04|289.09|295.46|Wenn wir uns in diesem Jahr an „20 Jahre Mauerfall“ erinnern, dann sollten wir auch die Rolle der Kirchen würdigen.|force
+2009-07-04|296.0|303.77|Sie waren in der ehemaligen DDR eine wichtige Quelle von Kraft, von Überzeugung und von Verbindung von Werten und Glauben.|force
+2009-07-04|319.82|323.6|Und daran sollten wir in diesem Jahr 2009 noch einmal denken.|force
 2009-07-11|12.68|20.35|Die deutsche Automobilindustrie genießt weltweit einen hervorragenden Ruf.|force
 2009-07-11|20.53|33.19|Das liegt nicht nur daran, dass das Auto in Deutschland erfunden wurde, sondern dass die Autos, die heute in Deutschland produziert werden, höchsten technologischen Ansprüchen und höchsten Sicherheitsansprüchen genügen.|force
 2009-07-11|33.82|40.64|Nächste Woche werde ich bei einem ganz besonderen Jubiläum in Ingolstadt mit dabei sein: Die Firma Audi feiert ihren 100.|force
@@ -1817,6 +1969,24 @@
 2009-12-05|230.52|235.22|Insgesamt haben wir ein neues Kapitel in der Arbeit der Europäischen Union aufgeschlagen.|force
 2009-12-05|236.03|240.67|Es liegt nun an uns, den Mitgliedern des Rates, wie wir das Kapitel mit Leben erfüllen.|force
 2009-12-05|240.82|246.19|Ich als deut­ sche Bundeskanzlerin habe den Willen, Europa durch diesen Vertrag zu stärken.|force
+2009-12-12|12.68|23.98|Die Mehrheit der Menschen in Deutschland hält das Thema Bildung für eines der entscheidenden Zukunftsthemen für unser Land - und das ist auch richtig so.|force
+2009-12-12|24.15|30.21|Deshalb habe ich davon gesprochen, dass die Bundesrepublik Deutschland wieder zu einer Bildungsrepublik werden muss.|force
+2009-12-12|31.08|34.47|Am nächsten Mittwoch treffe ich die Ministerpräsidenten der Bundesländer.|force
+2009-12-12|45.38|50.48|Dazu wird die Strategiegruppe, die wir im vergangenen Jahr eingesetzt haben, einen Zwischenbericht geben.|force
+2009-12-12|50.63|68.38|Noch einmal zur Erinnerung: Wir haben in Dresden viele sachliche Schwerpunkte festgelegt - zum Beispiel die Halbierung der Zahl von Schülerinnen und Schüler, die keinen Schulabschluss haben, oder die Verpflichtung, in Zukunft Berufsberatung der Bundesagentur für Arbeit in den Schulen zuzulassen.|force
+2009-12-12|69.05|77.8|Insgesamt haben wir uns darauf verpflichtet, dass bis zum Jahre 2015 zehn Prozent für Bildung und Forschung in Deutschland ausgegeben werden.|force
+2009-12-12|77.98|84.64|Zehn Prozent - das heißt, drei Prozent des Bruttoinlandsprodukts für Forschung und sieben Prozent für Bildung.|force
+2009-12-12|91.5|95.6|Dabei wird es darum gehen, in welcher Weise Bund und Länder hier zusammenarbeiten können.|force
+2009-12-12|107.4|116.45|Allein zwischen 2011 und 2015 werden durch die Gelder des Bundes 275.000 neue Studienplätze geschaffen.|force
+2009-12-12|117.17|123.1|Und wir wissen, wie dringlich diese Aufgabe ist, wenn wir die Proteste der Studierenden in diesen Tagen vernehmen.|force
+2009-12-12|124.14|127.3|Der Bologna-Prozess kann mit Sicherheit nicht rückgängig gemacht werden.|force
+2009-12-12|127.75|138.54|Aber die Bundesregierung - und insbesondere die Bundesbildungsministerin - wollen dabei helfen, diesen Prozess so umzusetzen, dass er zum Wohle der Studierenden in Deutschland gestaltet werden kann.|force
+2009-12-12|160.63|172.11|Und wir werden mit den Ländern vereinbaren, inwieweit wir bei der Erreichung des Ziels behilflich sein können, sieben Prozent des Bruttoinlandsprodukts im Jahre 2015 für Bildung auszugeben.|force
+2009-12-12|172.99|181.19|Ich bin mir ganz sicher, dass wir hier - und das auch bei dem Treffen am nächsten Mittwoch - an einem der zentralen Themen für die Zukunft unseres Landes arbeiten.|force
+2009-12-12|186.76|190.34|Bildung bedeutet aber auch in der Zukunft lebenslanges Lernen.|force
+2009-12-12|190.49|204.87|Das heißt, nicht nur Bund und Länder, sondern auch die privaten Institutionen, die Wirtschaft und die Tarifpartner sind gefragt, wenn es darum geht, dass lebenslanges Lernen eine Selbstverständlichkeit im 21. Jahrhundert wird.|force
+2009-12-12|205.52|211.13|Wir haben noch viel zu tun beim Thema Bildung, um wirklich wieder in die Spitzengruppe der Welt vorzudringen.|force
+2009-12-12|214.06|219.7|Und ich hoffe, dass am nächsten Mittwoch die Gemeinsamkeit in den Zielen von Bund und Ländern deutlich wird.|force
 2009-12-19|16.51|18.89|Dies ist mein letzter Videopodcast in diesem Jahr.|force
 2009-12-19|35.74|40.71|Die Staats- und Regierungschefs aus vielen Ländern waren Gäste bei uns.|force
 2009-12-19|40.75|44.6|Und es hat sich gezeigt: Deutschland ist ein anerkannter Partner in der Welt.|force
@@ -2839,6 +3009,22 @@
 2011-06-25|209.7|215.31|Und heute ist es eben ganz normal, dass wir eine Weltmeisterschaft haben, auf die sich auch viele Menschen freuen.|force
 2011-06-25|216.12|224.19|Und als Amerikaner möchte ich Sie natürlich fragen, ob Sie sich darüber freuen würden, wenn die USA und Deutschland im Finale aufeinander treffen?|force
 2011-06-25|240.62|248.14|Aber ich wünsche natürlich als Gastgeberin auch allen Mannschaften hier großen Erfolg, viel Spaß und ein tolles Publikum.|force
+2011-07-02|9.22|13.4|Kohlendioxid ist ein Gas, das man weder riechen noch schmecken kann.|force
+2011-07-02|20.96|29.11|Und deshalb geht es darum, dass wir das Maß an Kohlendioxid begrenzen, um die Erwärmung der Erdatmosphäre zu kontrollieren.|force
+2011-07-02|40.52|47.61|Erfreulicherweise haben sich dazu auch die allermeisten Staaten der Erde - in Cancún auf der vorigen Klimakonferenz - verständigt.|force
+2011-07-02|47.6|51.99|Strittig allerdings ist der Weg dahin, wie wir das erreichen wollen.|force
+2011-07-02|64.7|72.45|Das heißt also: Wir brauchen mehr Maßnahmen, gezieltere Maßnahmen und möglichst auch Abkommen, in denen dies bindend festgeschrieben wird.|force
+2011-07-02|73.03|75.43|Gerade das erweist sich aber als schwierig.|force
+2011-07-02|75.93|79.69|Allerdings drängt die Zeit, denn das Kyoto-Abkommen läuft bald aus.|force
+2011-07-02|83.76|94.99|Schon bei der Vorbereitung der Klimakonferenz in Mexiko hat Deutschland eine entscheidende Rolle gespielt: Der Bundesumweltminister hatte über 20 Staaten eingeladen, diese Konferenz vorzubereiten.|force
+2011-07-02|98.3|102.73|Jetzt geht es darum, auch die Konferenz in Südafrika zu einem Erfolg zu machen.|force
+2011-07-02|119.94|123.45|Denn mir liegt der Klimaschutz persönlich ganz besonders am Herzen.|force
+2011-07-02|136.09|138.98|Denn ansonsten würde vieles an Leben bedroht.|force
+2011-07-02|151.38|154.97|Deshalb ist der Klimaschutz eine der ganz wichtigen Aufgaben.|force
+2011-07-02|165.36|171.69|Erneuerbare Energien sind also wichtig, um den Klimaschutz voranzubringen, die Klimaziele zu erreichen.|force
+2011-07-02|182.96|190.51|Deutschland hat sich verpflichtet, bis 2020 40 Prozent der CO2-Emissionen gegenüber 1990 einzusparen.|force
+2011-07-02|190.94|216.58|Das ist anspruchsvoll, aber wir sind überzeugt, dass wir das schaffen können - zum Beispiel dadurch, dass wir den Anteil des Stroms, der durch erneuerbare Energien produziert wird, von 17 Prozent heute auf 35 Prozent steigern. dass dies in allen Ländern ernsthaft und zielstrebig vorangebracht wird.|force
+2011-07-02|216.98|224.05|Und auch gerade deshalb ist es so wichtig, dass der Petersberger Dialog und dann die Klimakonferenz in Südafrika ein Erfolg wird.|force
 2011-07-09|0.28|13.63|In der letzten Woche war der Präsident der Afrikanischen Union zu Besuch in Berlin.|force
 2011-07-09|14.05|17.48|Wir haben über die afrikanische Situation gesprochen.|force
 2011-07-09|17.94|23.35|Ich habe ihm dabei unser neues Konzept für Afrika seitens der Bundesregierung vorgestellt.|force
@@ -6867,6 +7053,18 @@
 2018-06-02|72.77|79.58|Lieber Alexander Gerst, wir wünschen Ihnen und Ihren Kollegen alles erdenklich Gute beim Start und dann beim Flug im Weltall.|force
 2018-06-02|79.75|85.36|Spannende Experimente, eine gute Zeit und dann auch wieder eine gute Rückkehr zu uns auf der Erde!|force
 2018-06-02|85.99|92.62|Natürlich werden wir von hier - auch ich persönlich - alle Nachrichten von „Astro-Alex“ ganz aufmerksam verfolgen.|force
+2018-06-16|16.34|19.89|Dieses ist der erste Ministerrat nach der Bildung der neuen Bundesregierung.|force
+2018-06-16|20.33|28.66|Und er findet in einer Zeit statt, in der die Welt in Unruhe ist und in der es mehr denn je darauf ankommt, dass Europa stark und geeint ist.|force
+2018-06-16|36.09|48.79|Die deutsch-französische Freundschaft ist seit dem Ende des Zweiten Weltkrieges und seit der Gründung der Bundesrepublik Deutschland für jeden Bundeskanzler und auch für mich als Bundeskanzlerin von überragender Bedeutung.|force
+2018-06-16|49.43|57.65|Sie ist wichtig für das Friedenswerk Europa, aber sie muss angesichts von vielen Veränderungen auch immer wieder gepflegt und erneuert werden.|force
+2018-06-16|58.4|67.12|Deshalb haben wir uns entschlossen, den Elysée-Vertrag neu zu fassen und auf die Anforderungen des 21. Jahrhunderts hin auszurichten.|force
+2018-06-16|82.8|86.86|Erstens geht es um eine gemeinsame Außen-, Verteidigungs- und Sicherheitspolitik.|force
+2018-06-16|92.81|97.11|Aber Deutschland und Frankreich können dieser Zusammenarbeit noch neue Impulse geben.|force
+2018-06-16|97.93|101.4|Zweitens geht es um die große Herausforderung der Migration.|force
+2018-06-16|106.7|111.27|Und ich halte dieses Thema für eines der entscheidenden für den Zusammenhalt Europas.|force
+2018-06-16|111.92|126.08|Drittens geht es um die Weiterentwicklung der Wirtschafts- und Währungsunion, um unseren Euro krisenfest zu machen und nachhaltiges dauerhaftes Wachstum für alle Mitgliedsstaaten des Euroraums, aber auch für alle Mitgliedsländer der Europäischen Union, zu sichern.|force
+2018-06-16|126.7|129.24|Und viertens geht es um die Frage der Innovation.|force
+2018-06-16|136.3|144.07|Und Deutschland und Frankreich werden hier Impulse geben, gerade im Bereich auch der künstlichen Intelligenz und anderer wichtiger Forschungsbereiche.|force
 2018-06-23|43.51|51.85|Aber jetzt gibt es ein Thema, das uns besonders beschäftigt, und das ist, dass die Künstliche Intelligenz eine geradezu dynamischste Entwicklung nimmt.|force
 2018-06-23|58.31|66.99|Aber durch die Masse an Daten, die heute zur Verfügung stehen, kann man heute im Bereich der Künstlichen Intelligenz sehr viel mehr machen und in allen Bereichen arbeiten.|force
 2018-06-23|127.33|133.97|Wir müssen allerdings aufpassen, dass durch die große Zunahme von Daten, die uns zur Verfügung stehen, kein Missbrauch betrieben wird.|force
@@ -7350,6 +7548,16 @@
 2019-09-14|212.97|218.89|Wir müssen auch in anderen Bereichen noch erfolgreich sein, zum Beispiel beim Ausbau der erneuerbaren Energien.|force
 2019-09-14|258.04|261.38|Insgesamt werden wir ein ganzes Bündel von Maßnahmen verabschieden.|force
 2019-09-14|267.26|268.29|Ich lade Sie ein!|force
+2019-09-28|16.67|32.64|Das erinnert uns auf der einen Seite daran, dass 1989 und dann in der Folge, in der Zeit der deutschen Einheit viele Menschen in den neuen Bundesländern, in der ehemaligen DDR viel Mut aufgebracht haben, um die deutsche Einheit Realität werden zu lassen.|force
+2019-09-28|32.81|35.48|Sie haben sich nicht mehr den Mund verbieten lassen.|force
+2019-09-28|35.65|38.87|Sie sind aufgestanden und haben Mut gezeigt.|force
+2019-09-28|49.31|55.52|Auch heute brauchen wir alle wieder Mut, um die Herausforderungen für die Zukunft wirklich auch stemmen zu können.|force
+2019-09-28|55.72|60.64|Deshalb ist das Motto „Mut verbindet“ ein wirklich gutes Motto für den 3. Oktober.|force
+2019-09-28|75.27|89.53|Allerdings bleibt es so, dass die Biografien vieler Menschen, die eine große Zeit ihres Lebens in der ehemaligen DDR verbracht haben, natürlich deutlich sich unterscheiden von den Biografien derer, die in der alten Bundesrepublik aufgewachsen sind.|force
+2019-09-28|90.1|102.87|Wir haben jetzt ein Jubiläumsjahr, nämlich die Zeit zwischen dem 30. Jahrestag des Mauerfalls am 9. November und dem 30. Jahrestag der Deutschen Einheit am 3. Oktober 2020.|force
+2019-09-28|154.31|159.15|Diese Zahl ist jetzt auf 75 Prozent gestiegen, also ein großer Erfolg.|force
+2019-09-28|165.98|174.72|Deshalb geht es in Zukunft darum, dass wir einerseits die Unterschiede zwischen Ost und West weiter angleichen, zum Beispiel im Rentensystem.|force
+2019-09-28|175.62|184.63|Auf der anderen Seite geht es darum, die Zukunft gemeinsam zu gestalten, das heißt, gesamtdeutsch auch zu überlegen, wo gibt es unterschiedliche Lebenssituationen.|force
 2019-10-12|11.15|12.76|Wir werden nach Toulouse fahren.|force
 2019-10-12|55.24|57.9|Hierzu werden Kulturinstitute gegründet.|force
 2019-10-12|57.89|63.54|Ein Bürgerfonds wird ganz konkrete Projekte zur Umsetzung der Zusammenarbeit möglich machen.|force
@@ -7376,6 +7584,15 @@
 2019-10-19|129.6|138.35|So zum Beispiel die Sprachförderung, weil Sprache das A und O ist bei der Frage, wie kann ich an einem gesellschaftlichen Leben teilhaben und wie erfolgreich kann ich lernen.|force
 2019-10-19|138.5|145.49|So werden wir von 2016 bis 2020 für Sprachförderung an Kitas 1 Milliarde Euro ausgeben.|force
 2019-10-19|145.72|152.36|Und das Gute-Kita-Gesetz setzt auch bei der Qualität der Betreuung der Kinder an, auch hier bei der sprachlichen Betreuung.|force
+2019-10-26|0.1|7.72|Am nächsten Donnerstag werde ich mit einigen Kollegen aus dem Bundeskabinett zu den 5. deutsch-indischen Regierungskonsultationen nach Neu-Delhi fahren.|force
+2019-10-26|8.44|17.39|Das ist meine vierte Reise nach Indien und ich freue mich, den indischen Premierminister Modi wiederzutreffen, um mit ihm über unsere bilateralen Beziehungen zu sprechen.|force
+2019-10-26|17.55|24.96|Regierungskonsultationen geben uns die Möglichkeit, in der gesamten Breite unserer Politik über die Zukunftsfragen zu sprechen.|force
+2019-10-26|43.76|49.05|Indien hat 1,3 Milliarden Einwohner und ist die größte Demokratie der Welt.|force
+2019-10-26|49.97|53.86|Mit Indien wollen wir vor allen Dingen in dem Bereich Wirtschaft zusammenarbeiten.|force
+2019-10-26|70.89|87.84|Darüber hinaus werden wir auch darüber reden wie wir den Klimaschutz und die nachhaltige Entwicklung besser in unseren Beziehungen realisieren können, wir werden über außen- und sicherheitspolitische Fragestellungen sprechen - das heißt, es wird ein großes Spektrum unserer gemeinsamen Diskussion geben.|force
+2019-10-26|111.28|115.61|Heute beeindruckt mich an Indien insbesondere die Entwicklungs-Dynamik.|force
+2019-10-26|128.53|131.48|Wir wissen alle, dass Indien noch große Potenziale hat.|force
+2019-10-26|131.98|148.44|Deshalb ist es wichtig, dass wir als Deutsche, die wir immerhin der größte Handelspartner Indiens aus der Europäischen Union sind, auch weiter unsere bilateralen Beziehungen festigen, von Indien lernen, aber auch unsere technologischen Entwicklungen in Indien platzieren können.|force
 2019-11-03|0.04|4.01|Menschen haben das Bedürfnis, von einem Ort zu einem anderen zu gelangen.|force
 2019-11-03|4.36|10.87|Das nennen wir Mobilität und diese soll klimafreundlich, flexibel, kostengünstig und bequem sein.|force
 2019-11-03|35.92|43.06|Diese Expertengruppe zur Automobilindustrie wird sich am nächsten Montagabend im Bundeskanzleramt zum zweiten Mal treffen.|force
