@@ -39,8 +39,8 @@ There are following files presently in this repository:
 ```
 podcast_date | start_duration | end_duration | text | how the snippet was obtained (force if obtained through forced alignment and srt if obtained through subtile file.)
 ```
-- `download_video.py`: Python script that downloads podcasts listed in the XML file.
-- `crop_snippets.py`: Python script the crops video-snippets from full podcasts using durations provided in `timings.txt`
+- `download_video.py`: Script to download podcasts listed in the XML file.
+- `crop_snippets.py`: Script to crop video-snippets from full podcasts using durations provided in `timings.txt`
 
 We are working towards adding more details about our downstream preprocessing. Stay tuned :)
 
