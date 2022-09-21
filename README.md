@@ -2,7 +2,7 @@
 
 ![facing](https://user-images.githubusercontent.com/45385843/180602719-f73e9e2b-0648-4aaf-ba55-70df45e1179b.jpg)
 
-This dataset is presented in the paper ***Merkel Podcast Corpus: A Multimodal Dataset Compiled from 16 Years of Angela Merkel's Weekly Video Podcasts*** published at LREC 2020 [(Paper)](https://arxiv.org/abs/2205.12194). 
+This dataset is presented in the paper ***Merkel Podcast Corpus: A Multimodal Dataset Compiled from 16 Years of Angela Merkel's Weekly Video Podcasts*** published at LREC 2022 [(Paper)](https://arxiv.org/abs/2205.12194). 
 
 ## Quick Setup
 ### Download
